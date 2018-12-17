@@ -1,6 +1,6 @@
 # testgithub
 
-![]{Hydrangeas.jpg}
+![Some nice flowers](Hydrangeas.jpg)
 
 Learning about GitHub December 2018
 
