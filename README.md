@@ -23,7 +23,7 @@ Body text
 3. item 3
 4. item 4
 
-This is a [link]{https://otago.ac.nz}
+This is a [link](https://otago.ac.nz)
 
 *Italics* ~~strikethrough~~ **bold**
 
