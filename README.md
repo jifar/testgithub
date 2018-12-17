@@ -25,6 +25,8 @@ Body text
 
 This is a [link](https://otago.ac.nz)
 
+Go to the testing document [link](testing.md)
+
 *Italics* ~~strikethrough~~ **bold**
 
 |Column1|Column2|Column3|
