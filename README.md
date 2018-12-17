@@ -1,4 +1,7 @@
 # testgithub
+
+![]{Hydrangeas.jpg}
+
 Learning about GitHub December 2018
 
 # This is a Header 1
